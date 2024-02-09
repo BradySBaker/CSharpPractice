@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.Design;
 using System.Text;
 
-namespace RandomPracticeApp {
+namespace PracticeApp {
     internal class HangmanGame {
         private static string[] wordList = new string[10] { "Apple", "Banana", "Orange", "Grape", "Pineapple", "Strawberry", "Watermelon", "Mango", "Kiwi", "Peach" };
         private static Random random = new Random();
