@@ -1,0 +1,2 @@
+# File read/write and regex
+In this simple program I read 2 text files and find the secret message. Its a game/assignment given to me by my course in Udemy "Complete C# Masterclass". ParseInput1 reads a file and creates a new file with text from specific sentences containing split. ParseInput2 reads a file and uses regex to get all numbers that are 2 or 3 numbers together. Then it converts these to characters to be output to the console. 
