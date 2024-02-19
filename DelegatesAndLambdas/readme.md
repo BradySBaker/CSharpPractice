@@ -1,0 +1,2 @@
+# Delegates and Lambdas
+A really simple class that contains a function that can take in a operator symbol and return a function. Also a function that can take in a 2 floats and a delegate and return the result of the operation.
